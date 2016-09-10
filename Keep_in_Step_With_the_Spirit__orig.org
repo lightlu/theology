@@ -1,5 +1,7 @@
-#+TITLE:《活在聖靈中 Keep in Step with the Spirit》 巴刻J．I．Packer著 /霍玉蓮譯
-#+AUTHOR: 巴刻J．I．Packer著 /霍玉蓮譯
+#+TITLE:《活在聖靈中》
+#+TEXT:《Keep in Step with the Spirit》
+#+TEXT:巴刻J．I．Packer著 /霍玉蓮譯
+#+AUTHOR:巴刻J．I．Packer著 /霍玉蓮譯
 
 * 目錄
  - [[#1_看清楚聖靈][1_看清楚聖靈]]
